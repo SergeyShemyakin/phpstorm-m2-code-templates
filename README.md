@@ -3,7 +3,7 @@
 
 ## Prepare
 
-- Copy directory **FileTemplates** (from this repository) to directory **.idea** in your project
+- Copy directory **fileTemplates** (from this repository) to directory **.idea** in your project
 - Go to PhpStorm menu: File - Settings - Editor - File And Code Templates
 - Select scheme **Project** and click to Apply button
 
